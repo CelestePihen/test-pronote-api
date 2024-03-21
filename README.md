@@ -8,6 +8,8 @@ Puis, vous devrez changer dans le code du programme (`main.py`) : l'URL correspo
 
 Enfin, lancez le script et voilà ! Il vous donne vos notes ainsi que vos devoirs ! Si vous voulez faire vos propres changements, vous pourrez regarder la documentation avec le lien ci-dessous.
 
+(Un jour, je ferai des améliorations dans le code pour pouvoir bien le comprendre et savoir faire plus d'actions)
+
 # Informations
 GitHub de PronotePy : https://github.com/bain3/pronotepy  
 Documentation de PronotePy : https://pronotepy.readthedocs.io/en/latest/?badge=latest
